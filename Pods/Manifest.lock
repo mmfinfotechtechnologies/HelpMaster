@@ -1,0 +1,20 @@
+PODS:
+  - SideMenu (5.0.3)
+  - SMTPLite (0.0.3)
+
+DEPENDENCIES:
+  - SideMenu
+  - SMTPLite
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SideMenu
+    - SMTPLite
+
+SPEC CHECKSUMS:
+  SideMenu: 1dcaabce84538c53325c287f7fe62999379a641c
+  SMTPLite: fb12970fa93f57432ca1b0abee101a18ae54603b
+
+PODFILE CHECKSUM: eac116f113b8da9b3c885e29e229833f54babe3c
+
+COCOAPODS: 1.5.3
